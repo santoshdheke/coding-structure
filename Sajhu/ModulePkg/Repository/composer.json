@@ -1,0 +1,19 @@
+{
+  "name": "ssgroup/helper",
+  "description": "crud maker",
+  "type": "libary",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "santosh",
+      "email": "santoshdheke46@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SsGroup\\Repo\\": "src/"
+    }
+  }
+}
